@@ -6,8 +6,8 @@ I am an aspiring data analyst eager to learn something new every day. I love to 
 
 # About me
 
-Since a very young age, I always enjoyed solving puzzles and engineer things. Back in school, I started learning Python programming language and one of the first projects that I created, was an algorithm to cipher and decipher using Vigenère cipher.
-My passion led me to pick Forensic Science, majoring in Digital Forensics at the University of Technology Sydney. During my study, I was introduced to data analysis from the perspective of forensic science. From there I sharpened my existing Excel and Python skills  as well as learned how to utilize machine learning techniques for forensic data analysis. This provided me with a great data analytical foundation that I could expand on.
+Since a very young age, I always enjoyed solving puzzles and engineering things. Back in school, I started learning Python programming language and one of the first projects that I created, was an algorithm to cipher and decipher texts using Vigenère cipher.
+My passion led me to pick Forensic Science, majoring in Digital Forensics at the University of Technology Sydney. During my study, I was introduced to data analysis from the perspective of forensic science. From there I sharpened my Excel and Python skills  as well as learned how to utilize machine learning techniques for forensic data analysis. This provided me with a great data analytical foundation that I could expand on.
 
 ## Professional career
 
