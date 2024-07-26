@@ -17,9 +17,9 @@ In my current role as Assistant Operations Manager at Merivale, I manage our dig
 
 
 # Certifications
-[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-au/ArtemBudkin-1970/D8273833A899B3A3?sharingId=9CC4BB76E761D5AC) (July, 2024) - Microsoft
-[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-au/ArtemBudkin-1970/32A4D71399C67A3F?sharingId=9CC4BB76E761D5AC) (May, 2024) - Microsoft
-[Splunk Core Certified Power User](https://www.credly.com/badges/dcc5e5da-88aa-41ae-993a-9aabe83ffe09/linked_in?t=sc0dzl) (April, 2024) - Splunk
+<p>[Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-au/ArtemBudkin-1970/D8273833A899B3A3?sharingId=9CC4BB76E761D5AC) (July, 2024) - Microsoft <br>
+[Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-au/ArtemBudkin-1970/32A4D71399C67A3F?sharingId=9CC4BB76E761D5AC) (May, 2024) - Microsoft <br>
+[Splunk Core Certified Power User](https://www.credly.com/badges/dcc5e5da-88aa-41ae-993a-9aabe83ffe09/linked_in?t=sc0dzl) (April, 2024) - Splunk </p>
 
 # Contact details
 My LinkedIn - [@artembudkin](www.linkedin.com/in/artem-budkin-516b291aa)
