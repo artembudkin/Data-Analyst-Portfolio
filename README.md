@@ -16,8 +16,10 @@ In my current role as Assistant Operations Manager at Merivale, I manage our dig
 # Projects
 ### Global retailer sales analysis
 **Goal:** To derive key business performance indicators based on the sales history and create appealing visualizations highlighting relevant information for business management.  
+  
 **Detailed guide:** [Power BI Visualizations project](https://github.com/artembudkin/Data-Analyst-Portfolio/blob/main/Power%20BI%20Data%20Visualization%20Project/README.md)  
 
+**Summary:**  
 
 # Certifications
 [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en%2Dau/ArtemBudkin%2D1970/D8273833A899B3A3%3FsharingId%3D9CC4BB76E761D5AC) (July, 2024) - Microsoft  
