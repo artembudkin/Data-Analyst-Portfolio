@@ -15,11 +15,14 @@ In my current role as Assistant Operations Manager at Merivale, I manage our dig
 
 # Projects
 ### Global retailer sales analysis
-**Goal:** To derive key business performance indicators based on the sales history and create appealing visualizations highlighting relevant information for business management.   
+**Goal:** To derive key business performance indicators based on the sales history and create appealing visualizations highlighting relevant information for business management.  
+  
 **Detailed guide:** [Power BI Visualizations project](https://github.com/artembudkin/Data-Analyst-Portfolio/blob/main/Power%20BI%20Data%20Visualization%20Project/README.md)  
+  
 **Summary:** The company Plant Co. provided an Excel workbook containing three datasets. Two of them contained dimensions tables: a customer accounts table and a products table, and one fact table containing sales data.  
 As a part of this project, the following skills have been used: *data cleaning, key performance indicators calculation, DAX functions, and data visualization.*  
-**Result:**  The final result is a dashboard containing key performance indicators, and slicers that allow filtering of data by year, gross revenue, quantity of units sold, and sales. The dashboard contains several visualizations comprised of a treemap, waterfall graph, stacked bar chart, and scatter plot highlighting the business performance relative to the previous year to date. The waterfall graph and stacked bar chart allow end-users to drill down to more detailed information based on time to identify key performance drivers for those sections.  
+  
+**Result:**  The final result is a dashboard containing key performance indicators, and slicers that allow filtering of data by year, gross revenue, quantity of units sold, and sales. The dashboard contains several visualizations comprised of a treemap, waterfall graph, stacked bar chart, and scatter plot highlighting the business performance relative to the previous year to date. The waterfall graph and stacked bar chart allow end-users to drill down to more detailed information based on time to identify performance drivers for those sections.  
 ![image](https://github.com/user-attachments/assets/3bc05011-d15a-4e1d-b29f-4b20d6e30ffc)
 
 # Certifications
