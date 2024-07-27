@@ -20,7 +20,7 @@ In my current role as Assistant Operations Manager at Merivale, I manage our dig
   
 **Detailed guide:** [Power BI Visualizations project](https://github.com/artembudkin/Data-Analyst-Portfolio/blob/main/Power%20BI%20Data%20Visualization%20Project/README.md)  
   
-**Summary:** The company Plant Co. provided an Excel workbook containing three datasets. Two of them contained dimensions tables: a customer accounts table and a products table, and one fact table containing sales data.   
+**Summary:** The company Plant Co. is a hypothetical global plant retailer. The company would like to utilize its data to create a clear dashboard highlighting the business performance for the management team. It provided an Excel workbook containing three datasets. Two of them contained dimensions tables: a customer accounts table and a products table, and one fact table containing sales data.   
 As a part of this project, the following skills have been used: 
 * *Data cleaning*  
 * *Key performance indicators calculation*   
