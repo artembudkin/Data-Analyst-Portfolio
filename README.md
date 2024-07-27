@@ -1,4 +1,4 @@
-# Portfolio
+# Data Analyst Portfolio
 
 Hello and welcome to my portfolio page, my name is Artem Budkin.
 
