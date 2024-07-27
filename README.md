@@ -21,10 +21,10 @@ In my current role as Assistant Operations Manager at Merivale, I manage our dig
   
 **Summary:** The company Plant Co. provided an Excel workbook containing three datasets. Two of them contained dimensions tables: a customer accounts table and a products table, and one fact table containing sales data.   
 As a part of this project, the following skills have been used: 
-**Data cleaning* 
-**Key performance indicators calculation* 
-**DAX functions* 
-**Data visualization*  
+* *Data cleaning*  
+* *Key performance indicators calculation*   
+* *DAX functions*  
+* *Data visualization*  
   
 **Result:**  The final result is a dashboard containing key performance indicators, and slicers that allow filtering of data by year, gross revenue, quantity of units sold, and sales. The dashboard contains several visualizations comprised of a treemap, waterfall graph, stacked bar chart, and scatter plot highlighting the business performance relative to the previous year to date. The waterfall graph and stacked bar chart allow end-users to drill down to more detailed information based on time to identify performance drivers for those sections.  
 ![image](https://github.com/user-attachments/assets/3bc05011-d15a-4e1d-b29f-4b20d6e30ffc)
