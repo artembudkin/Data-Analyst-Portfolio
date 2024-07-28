@@ -4,10 +4,6 @@ Hello and welcome to my portfolio page, my name is Artem Budkin.
 
 
 I am a recent graduate from the University of Technology Sydney. I love to discover and learn how things work, and the best way to learn it is to try it. This drives me to experiment and learn new things by creating projects. That is why this portfolio is just like my data knowledge, constantly evolving and expanding. As I tackle new data challenges, their result gets documented in this portfolio to demonstrate my knowledge and skills gained.  
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a166b1b3-1b9e-4083-b913-a7f18c913a79"
- />
-</p>
 
 # About me
 
