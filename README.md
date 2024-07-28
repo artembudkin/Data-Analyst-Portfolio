@@ -3,7 +3,10 @@
 Hello and welcome to my portfolio page, my name is Artem Budkin.
 
 
-I am a recent graduate from the University of Technology Sydney. I love to discover and learn how things work, and the best way to learn it is to try it. This drives me to experiment and learn new things by creating projects. That is why this portfolio is just like my data knowledge, constantly evolving and expanding. As I tackle new data challenges, their result gets documented in this portfolio to demonstrate my knowledge and skills gained.
+I am a recent graduate from the University of Technology Sydney. I love to discover and learn how things work, and the best way to learn it is to try it. This drives me to experiment and learn new things by creating projects. That is why this portfolio is just like my data knowledge, constantly evolving and expanding. As I tackle new data challenges, their result gets documented in this portfolio to demonstrate my knowledge and skills gained.  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0eb18dd3-6583-49b4-aaa6-35a7e04be8fb" />
+</p>
 
 # About me
 
@@ -28,6 +31,8 @@ As a part of this project, the following skills have been used:
 * Data visualization  
   
 **Result:**  The final result is a dashboard containing key performance indicators, and slicers that allow filtering of data by year, gross revenue, quantity of units sold, and sales. The dashboard contains several visualizations comprised of a treemap, waterfall graph, stacked bar chart, and scatter plot highlighting the business performance relative to the previous year to date. The waterfall graph and stacked bar chart allow end-users to drill down to more detailed information based on time to identify performance drivers for those sections.  
+
+  
 ![image](https://github.com/user-attachments/assets/3bc05011-d15a-4e1d-b29f-4b20d6e30ffc)
 
 # Certifications
