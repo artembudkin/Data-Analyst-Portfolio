@@ -21,7 +21,7 @@ After opening the Excel workbook file in Power BI, there were a few minor data p
 The name of each table needs to be changed to the appropriate format:  
 * Plant_FACT = Fact_Sales  
 * Accounts = Dim_Account  
-* Plant_Hierarchy = Dim_Product
+* Plant_Hierarchy = Dim_Product  
 A formatting convention is required to ensure that any other Power BI developer can understand the purpose of each table straight away
 
 A few column names need to be changed and data types checked to ensure that they are appropriate for each column. Lastly, for unique columns, just to be certain, apply "Remove duplicates" to avoid any duplicate values in them.  
