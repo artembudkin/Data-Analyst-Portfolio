@@ -84,6 +84,7 @@ The following image demonstrates the result of the current section:
 
 ### Creating visuals
 The following section is dedicated to each specific visual presented in the report.  
+  
 **Slicer:**  
 There are two slicers present on the report page. The first one slices the report by the year-to-date and is formatted as a drop-down list named "YTD". The second one allows an end-user to filter the report by three main categories and formatted as buttons. For this slicer also a hover effect was added to highlight the hovered field.  
   
