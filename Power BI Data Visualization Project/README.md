@@ -43,6 +43,7 @@ The following relationships were established:
 * Product_name_id[Dim_product] - One-to-many - Product_id[Fact_Sales]  
 * Account_id[Dim_account] - Many-to-many - Account_id[Fact_sales] - due to one blank value present, it was not possible to establish a one-to-many relationship
 * Date[Dim_Date] - One-to-many - Date_Time[Fact_Sales]  
+  
 The following screenshot demonstrates the star schema containing the above relationships:  
 ![image](https://github.com/user-attachments/assets/4f7aa7c3-ea49-44f6-9a17-4746207e1c8c)  
 
