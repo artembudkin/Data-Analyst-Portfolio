@@ -57,19 +57,21 @@ The following measures were created to derive key business indicators:
 * Quantity = SUM(Fact_Sales[quantity])  
 * Gross Profit = [Sales] - [COGS]
 * GP% = DIVIDE([Gross Profit],[Sales])  
+  
 These are all the base measures. They were added to the same named folder.  
 From here it was required to identify how the business is performing relative to the previous year.  
+  
 The following measures were derived for YTD:
 * YTD_GrossProfit = TOTALYTD([Gross Profit],Fact_Sales[Date_Time])  
 * YTD_Quantity = TOTALYTD([Quantity],Fact_Sales[Date_Time])  
-* YTD_Sales = TOTALYTD([Sales],Fact_Sales[Date_Time])  
+* YTD_Sales = TOTALYTD([Sales],Fact_Sales[Date_Time])
+  
 The following measures were derived for PYTD:
 * PYTD_GrossProfit = CALCULATE([Gross Profit], SAMEPERIODLASTYEAR(Dim_Date[Date]), Dim_Date[Inpast]=TRUE())  
 * PYTD_Quantity = CALCULATE([Quantity], SAMEPERIODLASTYEAR(Dim_Date[Date]), Dim_Date[Inpast]=TRUE())  
-* PYTD_Sales = CALCULATE([Sales], SAMEPERIODLASTYEAR(Dim_Date[Date]), Dim_Date[Inpast]=TRUE())
-
+* PYTD_Sales = CALCULATE([Sales], SAMEPERIODLASTYEAR(Dim_Date[Date]), Dim_Date[Inpast]=TRUE())  
+  
 All these measures would allow us to understand the performance of the business across three main categories in comparison to the previous year.  
-
   
 Next, to make a report more dynamic, the table with three category values(Sales, Gross Profit, Quantity) named "Slicer_Values" was created.
 Lastly, the measures to change values between these three categories were created to make all the future visuals dynamic, when picking a specific category in the slicer:  
