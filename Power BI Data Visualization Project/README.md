@@ -93,7 +93,9 @@ The following screenshot highlights the slicers:
 
 **Card:**  
 The report contains two different card visuals. Card visuals are a great way to have the most important and influential information displayed to the end user.  
+  
 The one located in the left top corner contains a title for the report. It is comprised of a company name and two dynamic fields. These fields change depending on the selection made in both slicers.  
+  
 The second card visual is located in the top right corner containing for most important measures: YTD, YTD vs PYTD, PYTD, and GP%. Each of them dynamically changes depending on the category selected in the slicer. For the "YTD vs PYTD" field conditional formatting was added to highlight the value in the correct colour depending on whether it is negative or positive. "GP%" is the only static field that changes depending on the YTD selected.  
 
 The following screenshot highlights the card visuals:  
@@ -101,13 +103,15 @@ The following screenshot highlights the card visuals:
 
 **Treemap:**  
 Treemap visual comprises several tiles varying in size based on their value.  
-For this report, a treemap visual was used to highlight the Top 10 bottom-performing countries based on three categories. It uses a Top N filtering to determine the bottom 10 countries by their variance in specific categories. This visual highlights to the end user the areas that require immediate attention and drives informative decisions.  
+  
+For this report, a treemap visual was used to highlight the Top 10 bottom-performing countries based on three categories. It uses a Top N filtering to determine the bottom 10 countries by their variance in specific categories. This visual highlights to the end user the areas that require immediate attention.  
   
 The following screenshot highlights the treemap visual:  
 ![image](https://github.com/user-attachments/assets/2de0ad51-9863-495f-9fb1-83d554322121)  
 
 **Waterfall:**  
 The waterfall visual is exceptionally useful in highlighting the significant changes in performance. This highlights to the end user a specific period where the biggest performance change has occurred to identify the potential drivers for such behaviour.  
+  
 The report's waterfall visual allows an end user to drill down on specific periods to see changes split by country and then product. It is also equipped with a dynamic title that changes depending on the selected category.  
   
 The following screenshot highlights the waterfall visual:  
@@ -115,6 +119,7 @@ The following screenshot highlights the waterfall visual:
 
 **Stacked bar chart:**
 The stacked bar chart provides its use in differentiating three categories by product type over a period of time. This allows an end user to identify patterns based on categories as well as identify the least performing category and drive informative business decisions.  
+  
 The stacked bar chart in the report allows to drill down based on the time period required, from quarters to months. The title for this visual is also dynamic and a PYTD line has been added to highlight the areas which outperformed prior year-to-date.  
   
 The following screenshot highlights the stacked bar chart:  
@@ -122,6 +127,7 @@ The following screenshot highlights the stacked bar chart:
 
 **Scatter chart:**
 The scatter chart plots single sales dot points based on their value and GP%. This visual helps an end user to identify the outlier sales in the data and focus on them. This can drive informative decisions based on the outlier analysis to drive further sales.  
+  
 The scatter chart is equipped with a dynamic title and two average lines, for x and y axes. It also contains two sliders to allow the user to zoom into certain regions of the chart.  
   
 The following screenshot highlights the scatter chart:  
