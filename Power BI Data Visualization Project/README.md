@@ -17,7 +17,7 @@ I was provided with an Excel workbook that contained the following data tables:
 * Plant_Hierarchy - dimensions table containing unique products sold by a company with a unique column "Product_Name_id".
 
 ### Power Query Data Pre-processing
-After opening the Excel workbook file in Power BI, there are a few minor data pre-processing techniques that need to be done.  
+After opening the Excel workbook file in Power BI, there were a few minor data pre-processing techniques that were done.  
 The name of each table needs to be changed to the appropriate format:  
 * Plant_FACT = Fact_Sales  
 * Accounts = Dim_Account  
