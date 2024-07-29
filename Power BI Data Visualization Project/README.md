@@ -138,7 +138,9 @@ The final result is a dashboard containing key performance indicators, and slice
   
 The following screenshots demonstrate the report based on three different categories:  
 ![image](https://github.com/user-attachments/assets/53633014-e8e0-4d0a-88ee-25ac2f68ac61)  
+  
 ![image](https://github.com/user-attachments/assets/56e84a71-7b13-4f7b-a2cd-22eb9f6a5bbe)  
+  
 ![image](https://github.com/user-attachments/assets/0b2f3d35-0a99-4393-bde0-d9edb6295d3d)
 
 
