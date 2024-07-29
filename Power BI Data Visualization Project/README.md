@@ -1,7 +1,7 @@
 # Power BI Data Visualization Project
 
 ## Project Inspiration
-As an Assistant Operations Manager, a big part of my job is to control and improve business performance. To understand the current state of a business, there are a variety of key business indicators that provide meaningful information about it. For this project, I took a hypothetical global business sales dataset to understand the current state of the business.
+As an Assistant Operations Manager, a big part of my job is to control and improve business performance. To understand the current state of a business, there are a variety of key business indicators that provide meaningful information about it. For this project, I took a hypothetical global business sales dataset to create a visually appealing report that would drive informative decisions by highlighting the most relevant business performance information and allowing the identification of trends and patterns through relevant visuals.
 
 ## Project Summary
 The company Plant Co. is a hypothetical global plant retailer. The company would like to utilize its data to create a clear dashboard highlighting the business performance for the management team. It provided an Excel workbook containing three datasets. Two of them contained dimensions tables: a customer accounts table and a products table, and one fact table containing sales data.
