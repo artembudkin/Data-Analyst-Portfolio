@@ -133,7 +133,7 @@ The scatter chart is equipped with a dynamic title and two average lines, for x 
 The following screenshot highlights the scatter chart:  
 ![image](https://github.com/user-attachments/assets/668cf586-e069-4bba-ba8e-622f4ada0157)  
 
-## Final result##  
+## Final result  
 The final result is a dashboard containing key performance indicators, and slicers that allow filtering of data by year, gross revenue, quantity of units sold, and sales. The dashboard contains several visualizations comprised of a treemap, waterfall graph, stacked bar chart, and scatter plot highlighting the business performance relative to the previous year to date. The waterfall graph and stacked bar chart allow end-users to drill down to more detailed information based on time to identify performance drivers for those sections. This allows an end user to quickly see the current business performance and quickly identify patterns and trends to focus on and make informative decisions.  
   
 The following screenshots demonstrate the report based on three different categories:  
