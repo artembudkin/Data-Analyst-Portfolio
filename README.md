@@ -38,5 +38,5 @@ As a part of this project, the following skills have been used:
 [Splunk Core Certified Power User](https://www.credly.com/badges/dcc5e5da-88aa-41ae-993a-9aabe83ffe09/linked_in?t=sc0dzl) (April, 2024) - Splunk 
 
 # Contact details
-My LinkedIn - [@artembudkin](www.linkedin.com/in/artem-budkin-516b291aa)  
+My LinkedIn - [@artembudkin](https://www.linkedin.com/in/artem-budkin-516b291aa)  
 My email - artem.budkin65@gmail.com
