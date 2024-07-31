@@ -30,8 +30,21 @@ As a part of this project, the following skills have been used:
 **Result:**  The final result is a dashboard containing key performance indicators, and slicers that allow filtering of data by year, gross revenue, quantity of units sold, and sales. The dashboard contains several visualizations comprised of a treemap, waterfall graph, stacked bar chart, and scatter plot highlighting the business performance relative to the previous year to date. The waterfall graph and stacked bar chart allow end-users to drill down to more detailed information based on time to identify performance drivers for those sections.  
   
   
-![image](https://github.com/user-attachments/assets/3bc05011-d15a-4e1d-b29f-4b20d6e30ffc)
+![image](https://github.com/user-attachments/assets/3bc05011-d15a-4e1d-b29f-4b20d6e30ffc)  
 
+### Coffee sales data exploration  
+**Goal**: To understand sales distribution based on the product category over time. Identify the general distribution of the sales based on the country and identify the top 5 most contributed customers to those sales.  
+
+**Summary:** The provided Excel workbook contains the sales data of the mid-sized online coffee retailer. The coffee is sold across three countries: the United States, the United Kingdom and Ireland. The business sells four different types of coffee, with various types of roast and in several sizes. The sales dataset only contains Order ID, Order Date, Customer ID, Product ID, and Quantity measures, the dimensional data is located in customers and products datasets.  
+As a part of this project, the following skills have been used:
+* XLOOKUP, MATCH, and INDEX functions  
+* PivotTable and PivotChart  
+* Data visualization
+
+**Result:** The final result contains several PivotChart organised by PivotTables formatted into a dynamic dashboard. This dashboard provides the ability for end users to inspect data based on time and using multiple slicers, that are based on the type of the product as well as if the customer has a loyalty card. The charts demonstrate few key metrics: total sales over time, sales by country, and top 5 most contributed customers to those sales.  
+
+![image](https://github.com/user-attachments/assets/868457dd-a645-402c-b87c-5442174f097c)
+  
 # Certifications
 [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en%2Dau/ArtemBudkin%2D1970/D8273833A899B3A3%3FsharingId%3D9CC4BB76E761D5AC) (July, 2024) - Microsoft  
 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-au/ArtemBudkin-1970/32A4D71399C67A3F?sharingId=9CC4BB76E761D5AC) (May, 2024) - Microsoft  
