@@ -16,7 +16,7 @@ In my current role as Assistant Operations Manager at Merivale, I manage our dig
 
 # Projects
 ### Global retailer sales analysis
-**Goal:** To derive key business performance indicators based on the sales history and create appealing visualizations highlighting relevant information for business management.  
+**Aim:** To derive key business performance indicators based on the sales history and create appealing visualizations highlighting relevant information for business management.  
   
 **Detailed guide:** [Power BI Visualizations project](https://github.com/artembudkin/Data-Analyst-Portfolio/blob/main/Power%20BI%20Data%20Visualization%20Project/README.md)  
   
@@ -33,7 +33,7 @@ As a part of this project, the following skills have been used:
 ![image](https://github.com/user-attachments/assets/3bc05011-d15a-4e1d-b29f-4b20d6e30ffc)  
 
 ### Coffee sales data exploration  
-**Goal**: To understand sales distribution based on the product category over time. Identify the general distribution of the sales based on the country and identify the top 5 most contributed customers to those sales.  
+**Aim:** To understand sales distribution based on the product category over time. Identify the general distribution of the sales based on the country and identify the top 5 most contributed customers to those sales.  
   
 **Detailed guide:** [Excel PivotTable Project](https://github.com/artembudkin/Data-Analyst-Portfolio/blob/main/Excel%20PivotTable%20Project/README.md)  
   
