@@ -12,9 +12,9 @@ To derive key business indicators and create a meaningful report to showcase the
 ## Method
 ### Getting familiar with the datasets
 I was provided with an Excel workbook that contained the following data tables:  
-* Plant_FACT - fact table containing sales data for the company between the 1st of January 2022 and the 14th of April 2024.
-* Accounts - dimensions table containing unique customer accounts with a unique column "Account_id".
-* Plant_Hierarchy - dimensions table containing unique products sold by a company with a unique column "Product_Name_id".
+* Plant_FACT - fact dataset containing sales data for the company between the 1st of January 2022 and the 14th of April 2024.
+* Accounts - dimensions dataset containing unique customer accounts with a unique column "Account_id".
+* Plant_Hierarchy - dimensions dataset containing unique products sold by a company with a unique column "Product_Name_id".
 
 ### Power Query data pre-processing
 After opening the Excel workbook file in Power BI, there were a few minor data pre-processing techniques that were done.  
