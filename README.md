@@ -43,7 +43,7 @@ As a part of this project, the following skills have been used:
 * PivotTable and PivotChart  
 * Data visualization
 
-**Result:** The final result contains several PivotChart organised by PivotTables formatted into a dynamic dashboard. This dashboard provides a view of the general distribution of sales based on the product category over time, based on country, and highlights the top 5 most contributed customers to those sales. A number of slicers are present on the dashboard which allows end users to filter this data based on time, the type of the product, and if the customer had a loyalty card at the time of purchase.  
+**Result:** The final result contains several PivotCharts organised by PivotTables formatted into a dynamic dashboard. This dashboard provides a view of the general distribution of sales based on the product category over time, based on country, and highlights the top 5 most contributed customers to those sales. Several slicers are present on the dashboard that allow end users to filter this data based on time, the type of the product, and whether the customer had a loyalty card at the time of the purchase.  
 
 ![image](https://github.com/user-attachments/assets/868457dd-a645-402c-b87c-5442174f097c)
   
