@@ -1,9 +1,9 @@
 # Power BI Data Visualization Project
 
-## Project Inspiration
+## Project inspiration
 As an Assistant Operations Manager, a big part of my job is to control and improve business performance. To understand the current state of a business, there are a variety of key business indicators that provide meaningful information about it. For this project, I took a hypothetical global business sales dataset to create a visually appealing report that would drive informative decisions by highlighting the most relevant business performance information and allowing the identification of trends and patterns through relevant visuals.
 
-## Project Summary
+## Project summary
 The company Plant Co. is a hypothetical global plant retailer. The company would like to utilize its data to create a clear dashboard highlighting the business performance for the management team. It provided an Excel workbook containing three datasets. Two of them contained dimensions tables: a customer accounts table and a products table, and one fact table containing sales data.
 
 ## Aim
@@ -16,7 +16,7 @@ I was provided with an Excel workbook that contained the following data tables:
 * Accounts - dimensions table containing unique customer accounts with a unique column "Account_id".
 * Plant_Hierarchy - dimensions table containing unique products sold by a company with a unique column "Product_Name_id".
 
-### Power Query Data Pre-processing
+### Power Query data pre-processing
 After opening the Excel workbook file in Power BI, there were a few minor data pre-processing techniques that were done.  
 The name of each table was changed to the appropriate format:  
 * Plant_FACT = Fact_Sales  
@@ -27,7 +27,7 @@ A formatting convention is required to ensure that any other Power BI developer 
 A few column names were changed and data types were checked to ensure that they were appropriate for each column. Lastly, for unique columns, the function "Remove duplicates" was applied to avoid any duplicate values in them.  
 Finally, to ensure that everything was done correctly, the "Column quality" was checked under the "View" ribbon.
 
-### Creating Date Table
+### Creating date table
 The next step was to create a specific date table with a unique entry for each day.  
 Under the "Modelling" ribbon, the "New table" function was used.  
   
