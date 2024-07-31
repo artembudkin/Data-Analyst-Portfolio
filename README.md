@@ -34,14 +34,16 @@ As a part of this project, the following skills have been used:
 
 ### Coffee sales data exploration  
 **Goal**: To understand sales distribution based on the product category over time. Identify the general distribution of the sales based on the country and identify the top 5 most contributed customers to those sales.  
-
+  
+**Detailed guide:** [Excel PivotTable Project](https://github.com/artembudkin/Data-Analyst-Portfolio/blob/main/Excel%20PivotTable%20Project/README.md)  
+  
 **Summary:** The provided Excel workbook contains the sales data of the mid-sized online coffee retailer. The coffee is sold across three countries: the United States, the United Kingdom and Ireland. The business sells four different types of coffee, with various types of roast and in several sizes. The sales dataset only contains Order ID, Order Date, Customer ID, Product ID, and Quantity measures, the dimensional data is located in customers and products datasets.  
 As a part of this project, the following skills have been used:
 * XLOOKUP, MATCH, and INDEX functions  
 * PivotTable and PivotChart  
 * Data visualization
 
-**Result:** The final result contains several PivotChart organised by PivotTables formatted into a dynamic dashboard. This dashboard provides the ability for end users to inspect data based on time and using multiple slicers, that are based on the type of the product as well as if the customer has a loyalty card. The charts demonstrate few key metrics: total sales over time, sales by country, and top 5 most contributed customers to those sales.  
+**Result:** The final result contains several PivotChart organised by PivotTables formatted into a dynamic dashboard. This dashboard provides a view of the general distribution of sales based on the product category over time, based on country, and highlights the top 5 most contributed customers to those sales. A number of slicers are present on the dashboard which allows end users to filter this data based on time, the type of the product, and if the customer had a loyalty card at the time of purchase.  
 
 ![image](https://github.com/user-attachments/assets/868457dd-a645-402c-b87c-5442174f097c)
   
