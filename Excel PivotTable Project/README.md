@@ -20,13 +20,19 @@ I was provided with an Excel workbook that contained the following data tables:
 The "Orders" dataset contains several columns that were not populated. The headings of these columns relate to the columns in the other two datasets. To then effectively use PivotTable, those columns should be populated with correlating information from other two datasets based on either "Product ID" or "Customer ID" as unique identifiers.  
 For this project, two approaches were used to populate the empty columns. XLOOKUP function was used to populate the columns related to the "Customers" dataset, which were "Customer name", "Email", and "Country". INDEX and MATCH functions were used to populate the columns related to the "Products" dataset, which were "Coffee Type", "Roast Type", "Size", and "Unit Price".  
   
-XLOOKUP function was utilized to use the unique "Customer ID" column as a search value in the "Customers" dataset. Then it returned values for each of the columns with the customer's name, their email address, the country of the order, and whether the customer had a loyalty card at the time of purchase. The following screenshot demonstrates the formula used to populate the "Customer Name", "Country", and "Loyalty Card" columns:  
+XLOOKUP function was utilized to use the unique "Customer ID" column as a search value in the "Customers" dataset. Then it returned values for each of the columns with the customer's name, their email address, the country of the order, and whether the customer had a loyalty card at the time of purchase.  
+  
+The following screenshot demonstrates the formula used to populate the "Customer Name", "Country", and "Loyalty Card" columns:  
 ![image](https://github.com/user-attachments/assets/711ad818-b967-47b0-922a-c82ebc15d464)  
   
-As the column "Email" contained empty values, the formula was adjusted with an if statement to return blank instead of 0 (standard return when the formula cannot locate a value). The following screenshot demonstrates the adjusted formula used to populate the "Email" column:  
+As the column "Email" contained empty values, the formula was adjusted with an if statement to return blank instead of 0 (standard return when the formula cannot locate a value).  
+  
+The following screenshot demonstrates the adjusted formula used to populate the "Email" column:  
 ![image](https://github.com/user-attachments/assets/05587259-d8da-4217-93a2-ae0e6264cd35)  
   
-INDEX and MATCH functions were utilized to use the unique "Product ID" column as a search value in the "Products" dataset. The INDEX function returns the value from a cell based on the location provided, while the MATCH function locates the desired value in the array and returns its position. The INDEX function was firstly provided with the whole products array, then the MATCH function was used to locate the row number based on the "PRODUCT ID" column and another MATCH function was used to locate the column number based on the heading of the column. The following screenshot demonstrates the formula used to populate the "Coffee Type", "Roast Type", "Size", and "Unit Price".  
+INDEX and MATCH functions were utilized to use the unique "Product ID" column as a search value in the "Products" dataset. The INDEX function returns the value from a cell based on the location provided, while the MATCH function locates the desired value in the array and returns its position. The INDEX function was firstly provided with the whole products array, then the MATCH function was used to locate the row number based on the "PRODUCT ID" column and another MATCH function was used to locate the column number based on the heading of the column.  
+  
+The following screenshot demonstrates the formula used to populate the "Coffee Type", "Roast Type", "Size", and "Unit Price".  
 ![image](https://github.com/user-attachments/assets/2ca90c02-b1ff-4989-ace6-93458d508562)  
   
 **Creating calculated columns**  
