@@ -68,17 +68,17 @@ The following screenshot demonstrates the "Top5Customers" PivotTable:
 
 **Creating a dashboard**  
 The dashboard was made of three graphs based on three PivotTables created in the previous step.  
-Also, the dashboard accompanied three different slicers. Each slicer filtered the data based on the categories "Roast Type", "Size", and "Loyalty Card". Furthermore, a timeline was added to allow end users to filter the dashboard based on their preferred time frame.  
+Also, the dashboard accompanied three different slicers. Each slicer filtered the data based on the categories "Roast Type", "Size", and "Loyalty Card". Furthermore, a timeline was added to allow end-users to filter the dashboard based on their preferred time frame.  
   
 The following screenshot demonstrates the slicers and timeline on the dashboard:  
 ![image](https://github.com/user-attachments/assets/093705dc-96f9-4f0e-bea6-b0b9a721b755)  
   
-For the main visual, a line chart was used. It used the PivotTable depicting the distribution of sales over time. It highlighted the trends of each coffee type over time. The end users could filter the chart based on all three categories as well as focus on a specific time frame using a timeline. This allowed the end users to highlight the major changes in the sales for each coffee type and investigate its causes to maximize further sales.  
+For the main visual, a line chart was used. It used the PivotTable depicting the distribution of sales over time. It highlighted the trends of each coffee type over time. The end-users could filter the chart based on all three categories as well as focus on a specific time frame using a timeline. This allowed the end-users to highlight the major changes in the sales for each coffee type and investigate its causes to maximize further sales.  
   
 The following screenshot demonstrates the line chart "Total Sales over Time":  
 ![image](https://github.com/user-attachments/assets/f166d35e-f6b8-4dbe-b2be-49454b32fd68)  
 
-For the other two charts, the bar chart visuals were used. Both of these charts highlighted the breakdown of total sales by country and customer. The sales by country graph demonstrated the distribution of sales based on three regions: the United States, Ireland, and the United Kingdom. The purpose of this graph was to demonstrate the performance of each region to the end users.  
+For the other two charts, the bar chart visuals were used. Both of these charts highlighted the breakdown of total sales by country and customer. The sales by country graph demonstrated the distribution of sales based on three regions: the United States, Ireland, and the United Kingdom. The purpose of this graph was to demonstrate the performance of each region to the end-users.  
   
 The following screenshot demonstrates the bar chart "Sales by Country":  
 ![image](https://github.com/user-attachments/assets/d7ed8555-80ff-4fe2-baef-22936f6fdd2a)  
@@ -90,7 +90,11 @@ The following screenshot demonstrates the bar chart "Top 5 Customers":
 
 Lastly, a text box was added at the top of the page with the title of the dashboard "Coffee Sales Dashboard".  
 
-## Result
+## Final result
+The final result is a dashboard in the Excel workbook containing several visuals and slicers that allow the end-users to identify and highlight the sales trends. The line chart visual highlights the distribution of coffee sales by their type over time. Both bar charts highlight the Top 5 customers of the business and the distribution of sales by three regions. There are 3 slicers and one timeline located on the dashboard. All of them provide great flexibility to filter the sales data and only focus on specific requirements. This dashboard can identify trends in the sales data and provide focus points based on the filters specified in the slicers and a timeline.  
+
+The following screenshot demonstrates the final dashboard:  
+![image](https://github.com/user-attachments/assets/f2093ef7-a619-4ce5-9c54-e7cd36401e23)
 
 
 
